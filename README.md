@@ -73,6 +73,7 @@ cd src/drivers/xsens_ros/src/xsens_mti_ros2_driver/lib/xspublic
 make
 cd ../../../../../../..
 colcon build --symlink-install --packages-up-to xsens_ros_mti_driver
+```
 
 Source the ``install/setup.bash`` file inside your ROS2 workspace
 ```
