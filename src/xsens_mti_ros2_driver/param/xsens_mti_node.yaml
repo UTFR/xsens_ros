@@ -55,7 +55,7 @@
         # Transform Frame ID
         # ------------------
         # Default frame_id is "imu_link". Change this if using multiple devices to avoid conflicts.
-        # frame_id: "imu_link"
+        frame_id: "xsens_imu"
 
         # Sensor Configuration
         # ---------------------------
